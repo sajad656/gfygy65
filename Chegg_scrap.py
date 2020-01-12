@@ -6,7 +6,7 @@ import time,os
 webdriver = "/home/phuyalb/Desktop/chromedriver"
 
 driver = Chrome(webdriver)
-
+# hello
 
 URL = 'https://www.chegg.com/auth?action=login&redirect=https%3A%2F%2Fwww.chegg.com%2Fhomework-help%2Fresearch-al-khorezmi-also-al-khwarizmi-man-whose-name-word-a-chapter-1.1-problem-1e-solution-9780132316811-exc'
 
