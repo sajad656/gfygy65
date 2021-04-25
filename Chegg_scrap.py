@@ -14,11 +14,11 @@ driver.get(URL)
 
 email_signin = driver.find_element_by_id('emailForSignIn')
 email_signin.click()
-email_signin.send_keys("zaia@berea.edu")
+email_signin.send_keys("dasdasd34rdadad@hotmail.com")
 
 pass_signin = driver.find_element_by_id('passwordForSignIn')
 pass_signin.click()
-pass_signin.send_keys("ahaD123")
+pass_signin.send_keys("Chegg2021")
 
 login_button = driver.find_element_by_name('login')
 login_button.click()
